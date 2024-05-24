@@ -49,6 +49,8 @@ private String checkCompliance(){
       return "Talk to the hand!";
     default:
     return "Fuck off!";
+  }
+  
 }
-}
+
 }
